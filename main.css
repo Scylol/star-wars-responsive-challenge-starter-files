@@ -1,0 +1,30 @@
+main {
+	padding-top: 50px;
+	font-size: 0;
+}
+
+header {
+	background-color:orange;
+}
+header h1 {
+	line-height: 1;
+	margin-bottom:0;
+}
+
+
+main .info-box {
+	
+	margin-bottom: 20px;
+	text-align: left;
+	border: 1px solid lightgrey;
+	font-size:15px;
+	padding:10px;
+	
+}
+
+.images {
+	width:100%;
+	border:1px solid lightgrey;
+	border-bottom:none;
+	
+}
